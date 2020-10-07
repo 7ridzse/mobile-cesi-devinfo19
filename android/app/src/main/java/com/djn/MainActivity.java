@@ -1,4 +1,4 @@
-package com.app;
+package com.djn.app;
 
 import com.facebook.react.ReactActivity;
 
