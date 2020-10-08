@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636045063449",
+    "firebase_url": "https://myapp-1de3a.firebaseio.com",
+    "project_id": "myapp-1de3a",
+    "storage_bucket": "myapp-1de3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636045063449:android:17070980435dd2d47e0188",
+        "android_client_info": {
+          "package_name": "com.djn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636045063449-vvr4autfmnsl7kemehs6l9m8h98bjdkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6Bi0SDhk_YdeQeBZiRYg5J_F_i1eFNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636045063449-vvr4autfmnsl7kemehs6l9m8h98bjdkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
