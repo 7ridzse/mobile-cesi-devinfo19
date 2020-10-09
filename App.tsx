@@ -36,7 +36,6 @@ class App extends React.Component {
           </ImageBackground>
         </View>
 
-
         <View>
           <Switch
             trackColor={{ false: "#767577", true: "#81b0ff" }}

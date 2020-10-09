@@ -26,3 +26,10 @@ Modification de `/android/app/build.gradle`.
 ### Rebuild de l'application
 `npx react-native run-android`
 Une dépendance est nécessaire pour procéder `multiDexEnabled true`.
+
+### Création du fichier APK
+Ouvrez une invite de commande en administrateur.
+Rendez vous dans `d:\myfirstdev\myapp\android`
+Création d'un APK release et debug : 
+- [ ] Pour release `gradlew assembleRelease`
+- [ ] Pour debug `gradlew assembleDebug`
